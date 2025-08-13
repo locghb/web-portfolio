@@ -19,7 +19,6 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: "Portfolio - Internship Developer",
   description: "Personal portfolio showcasing my journey as a internship developer",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
